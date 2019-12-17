@@ -6,3 +6,5 @@ Q: Who is your brother?
 A: His name is Narek.
 Q: Are you really intelligent?
 A: Yes I'm really intelligent
+Q: Have you ever seen the rain?
+A: Never.
