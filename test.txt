@@ -4,5 +4,5 @@ Q: Are you happy?
 A: I'm so happy.
 Q: Who is your brother?
 A: His name is Narek.
-
-
+Q: Are you really intelligent?
+A: Yes I'm really intelligent
